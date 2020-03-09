@@ -10,5 +10,5 @@ def toadstool
 end
 
 def link
-  phrase2 = "It's Dagerous To Go Alone!Take This."
+  phrase2 = "It's Dangerous To Go Alone! Take This."
 end  
